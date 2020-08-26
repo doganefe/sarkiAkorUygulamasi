@@ -1,0 +1,21 @@
+.categories {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin-top: 30px;
+    gap: 30px;
+    margin: 30px;
+    text-align: center;
+}
+
+.categories>div {
+    height: 120px;
+    border-radius: 50px;
+}
+
+.category {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.artistSongs {
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.link {
+    color: darkorange;
+}
+.link:hover {
+    color: purple;
+}

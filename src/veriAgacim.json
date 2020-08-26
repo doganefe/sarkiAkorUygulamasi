@@ -1,0 +1,36 @@
+{
+    "sanatcilar" : [
+        {
+            "isim" :"Emir Can İğrek",
+            "sarkilar" : [
+                {
+                    "isim" : "nalan",
+                    "sozler" : "Sana yanığım ama bu ateşi harlama, Nalan Dizinin dibi çok güzel yer ama yaşayamam ben orada Sen bahçesin ben kasırga Çiçeklerin kopar burada Yapma Nalan Ben karşının taksisiyim Ömrünün hay aksisiyim Olmaz Nalan Bak ben yara gibiyim, gönlünde bi' yara gibiyim Nalan Sal beni gideyim, ömründe bi' kara meleğim Nalan Ben yara gibiyim, gönlündeki yarayı kapat n'olur Sal beni gideyim, ömründe bi' kara meleğim Sen kıştasın ben boş soba Ayakların üşür burada Yakma Nalan Sessiz konuş ne olursun Ayıp olur kahrolursun Olma Nalan Bak ben yara gibiyim, gönlünde bi' yara gibiyim Nalan Sal beni gideyim, ömründe bi' kara meleğim Nalan Ben yara gibiyim, gönlündeki yarayı kapat…",
+                    "yorumlar" : [
+                        {
+                            "author" : "dogan",
+                            "comment" : "cok iyi bir sarki"
+                        }
+                    ]
+                },
+                {
+                    "isim" : "defoluyorum",
+                    "sozler" :"Bugün hayatından defoluyorum Fark edilmiyor ama kahroluyorum İçime attığım gibi, kendimi çöpe atıyorum Beni sevmediğini, iyi biliyorum Arkadaşlara henüz söylemiyorum Herşeyden vazgeçtim, gidiyorum Sen bana nefes, ben sana herkes Bir daha gelmem, karşındayım son kez Sen bana yara, ben sana merhem Görmüyorsun hiç, bakmadım zaten Sen bana nefes, ben sana herkes Bir daha gelmem, karşındayım son kez Sen bana yara, ben sana merhem Görmüyorsun hiç, bakmadım zaten Bugün hayatından defoluyorum Fark edilmiyor ama kahroluyorum İçime attığım gibi, kendimi çöpe atıyorum Beni sevmediğini iyi biliyorum Arkadaşlara henüz söylemiyorum Herşeyden…"
+                }
+            ]
+        },
+        {
+            "isim" :"Yüzyüzeyken Konuşuruz",
+            "sarkilar" : [
+                {
+                    "isim" : "Dinle Beni Bi",
+                    "sozler" : "Tut elimi buradan gidelim Olmaz demeden dinle beni bi' Rüzgarım söndü dindi ateşim Ah bebeğim ben hala deliyim Sen yokken ne gece ne de gündüz Ne ay var ne tek bir yıldız Her yer karanlık ve ıssız Göremiyorum Sen yokken ne gece ne de gündüz Ne ay var ne tek bir yıldız Her yer karanlık ve ıssız Göremiyorum Tut elimi buradan gidelim Olmaz demeden dinle beni bi' Rüzgarım söndü dindi ateşim Ah bebeğim ben hala deliyim Sen yokken…"
+                },
+                {
+                    "isim" : "Sandal",
+                    "sozler" :"Uykulardayım düzensiz uykularda Çok korkunç rüyaların terli sabahlarında Kaçmışsın gitmişsin buradan Çünkü bıkmışsın her şeyden Hepimizden Kaçmışsın gitmişsin buradan Çünkü çok bıkmışsın bizden ikimizden Yollar aştım geldim Kuyulara düştüm kendim Tırmandım parmaklarımla Kirlensin tırnaklarım da Yollar aştım geldim Kuyulara düştüm kendim Tırmandım parmaklarımla Kirlensin tırnaklarım da Uykulardasın şimdi bensiz uykularda Hala İstanbul'dasın ama deniz yok dalgalar da Kaçmışlar gitmişler buradan Çünkü çok bıkmışlar bizden Ikimizden Kaçmışlar…"
+                }
+            ]
+        }
+    ]
+}

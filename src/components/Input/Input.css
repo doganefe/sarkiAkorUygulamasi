@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+}
+.header__input {
+  color: #f5b947;
+  border: 1px solid #F7D08A;
+  border-radius: 50px;
+  padding: 10px;
+  width: 55%;
+  margin: 53px 0px 53px 0px;
+}
+
+.header__input::placeholder {
+  color: #F7D08A;
+}
+
+.header__input:focus {
+  outline: none !important;
+}
+
+
+@media (max-width :600px) {
+  .header__input {
+      width: 75%;
+  }
+}

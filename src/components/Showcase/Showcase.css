@@ -1,0 +1,47 @@
+.home {
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.home__showpage {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+
+.home__showpage div {
+    border-right: 1px solid #F7D08A;
+    border-left: 1px solid #F7D08A;
+    font-size: 15px
+}
+.sarkilar {
+    line-height: 30px;
+    color: black;
+    transition: 0.2s all;
+}
+.sarkilar:hover {
+    filter: brightness(1.5);
+    transform: scale(1.0145);
+}
+.home__showpage p {
+    border-radius: 30px;
+}
+
+.home h3 {
+    font-family: 'Source Serif Pro', serif;
+}
+
+@media (max-width: 600px) {
+    .home__showpage {
+        flex-direction: column;
+    }
+    .home__showpage div {
+        border: none;
+        border-top: 1px solid #F7D08A;
+    }
+    .home__showpage p {
+        padding: 0px;
+    }
+}
